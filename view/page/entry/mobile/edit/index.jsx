@@ -1,10 +1,10 @@
-export class WebComponent extends React.Component {
+export class EditComponent extends React.Component {
     constructor(props) {
         super(props)
         this.state = {}
     }
 
     render() {
-        return <div>Web</div>
+        return <div>Task Edit</div>
     }
 }

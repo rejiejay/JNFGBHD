@@ -1,6 +1,6 @@
 # JNFGBHH
 
-Java Notes for go home helper
+java notes for go back home helper
 
 ## Construct
 cnpm install -d  
